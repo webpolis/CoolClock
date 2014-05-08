@@ -1,0 +1,22 @@
+{
+  "name": "CoolClock",
+  "version": "2.1.0",
+  "main": "coolclock.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "keywords": [
+    "coolclock",
+    "analog",
+    "clock"
+  ]
+}
+
